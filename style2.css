@@ -1,0 +1,51 @@
+.jumbotron{
+	color:white;
+	background-image:url("amazon-river.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius:1.0em; 
+}
+
+img{
+	height: 200px;
+	width: 300px;
+	border-top-width:5px;
+}
+.navbar{
+	Color:black;
+}
+a{
+	color:black;
+}
+.container-fluid{
+	color:black;
+}
+body{
+	background-repeat: no-repeat;
+	background-size: cover; 
+	background: rgba(76, 255, 80, 0.1);
+	padding-top:60px;
+	padding-right:30px;
+	padding-left:30px;
+	padding-bottom:60px;
+}
+.resize{
+	width:50px;
+	height:60px;
+}
+.sidenav{
+	height:100%;
+	width: 250px;
+	top: 0;
+	left: 0;
+	margin-bottom: 0;
+	background-color: #111;
+	overflow-x: hidden;
+	padding-top: 20px;
+}
+html {
+ padding-top:60px;
+ padding-right:30px;
+ padding-left:30px;
+ padding-bottom:60px;
+}
